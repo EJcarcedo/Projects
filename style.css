@@ -1,0 +1,19 @@
+*{
+    display: flex;
+    margin: 0px;
+    padding: 0px;   
+}
+body{
+    display: flex;
+    background-size: cover; 
+    background-position: center center; 
+    background-attachment: fixed; 
+    margin: 0;
+    padding: 0; 
+    height: 100vh;
+}
+nav{
+    display: flex;
+    text-align: center;
+    list-style: none;
+}
